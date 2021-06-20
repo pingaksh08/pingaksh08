@@ -1,6 +1,6 @@
 # **Hoi 👋, I'm Pingaksh Pareek**
 ## Flutter Developer
-I am currently a 19 year old Computer Science and Engineering student at JECRC. I am a self paced Flutter developer and I also like to code and explore Data Structures and Algorithms.
+I am currently a 19 year old Computer Science and Engineering student at JECRC. I am a self taught Flutter developer and I also like to code and explore Data Structures and Algorithms.
 
 ## Skill Experience
 - 👩‍💻 C,C++
