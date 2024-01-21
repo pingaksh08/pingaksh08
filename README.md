@@ -1,16 +1,16 @@
 # **Hoi 👋, I'm Pingaksh Pareek**
-## Flutter Developer
-I am currently a 19 year old Computer Science and Engineering student at JECRC. I am a self taught Flutter developer and I also like to code and explore Data Structures and Algorithms.
 
-## Skill Experience
-- 👩‍💻 C,C++
-- 📱 Dart, Flutter
+## About Me
 
-![Pingaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pingaksh&hide=contribs,prs)
+Hello there! I'm a passionate software developer with a strong background in JavaScript, React.js and is also familiar with SQL Server, MongoDB, C#, and the .NET Framework. I thrive on creating efficient and scalable solutions to complex problems. I'm currently exploring new opportunities to contribute my skills and expertise to exciting projects.
 
-- 👯 I’m looking to collaborate on Flutter based projects 
-- 🤔 I’m looking for help with Internships 
-- ⚡ Fun fact: I love cricket 🏏more than coding 😉 
+## Skills
+
+- **Languages:** JavaScript, C#
+- **Frontend:** React.js
+- **Databases:** SQL Server, MongoDB
+- **Frameworks:** .NET Framework
+- **Tools:** Azure DevOps
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pingaksh08) 
