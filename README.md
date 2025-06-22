@@ -8,9 +8,10 @@ Hello there! I'm a passionate software developer with a strong background in fro
 
 - **Languages:** JavaScript, C#
 - **Frontend:** React.js
-- **Databases:** SQL Server, MongoDB
+- **Databases:** MS SQL Server
 - **Frameworks:** .NET Framework
 - **Tools:** Azure DevOps, Git, Rabbitmq
+- **Familiar:** Java, Node.js, agile development, Azure Devops, CI/CD deployment
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pingaksh08) 
